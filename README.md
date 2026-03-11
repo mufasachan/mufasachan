@@ -20,7 +20,7 @@ Most of my repos are small. Only the repos from my PhD are medium to large scale
   - [Noise Removal in Speech with Deep Learning](https://github.com/mufasachan/2019_noise_removal_speech)
   - [Realtime audio processing with reverb](https://github.com/mufasachan/2020_realtime_audio_processing)
 - My Gitlab project
-  - My Hugo toy project, usage of Gitlab CD and source of this [YT video](https://youtu.be/mWYVpV_wV_k).
+  - My [Hugo page toy project](https://gitlab.com/mufasachan/portfolio-weebo-demo), usage of Gitlab CD and source of this [YT video](https://youtu.be/mWYVpV_wV_k).
   - [NUwUs](https://gitlab.com/mufasachan/nuwus) is a event platform for students of the ENSE3. I mainly wrote the backend with flask and SQLAlchemy.     
 - My personal configuration because I love to tinker
   - My bloated [neovim configuratio](https://github.com/mufasachan/nvim_config)
