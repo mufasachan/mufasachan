@@ -2,6 +2,9 @@
 
 I am currently looking for a job as Research Engineer. In general, I plan to help building community projects and some personal meaningless things, exhaustive list below :) 
 
+> [!NOTE] Incoming migration to personal Forgejo instance
+> Personal projects will likely be migrated to my personal [Forgejo instance](https://git.moonstation.ovh/mufasachan). So if a repo is removed, please peek into my Forgejo instance 😁
+
 ### My repos
 
 Most of my repos are small. Only the repos from my PhD are medium to large scale codebases. 
