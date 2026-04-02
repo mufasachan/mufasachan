@@ -17,6 +17,8 @@ Most of my repos are small. Only the repos from my PhD are medium to large scale
   - Unfinished [reimplementation](https://github.com/AwePhD/mmdetection) of [PSTR model](https://github.com/JialeCao001/PSTR) under mmdet3 instead of mmdet2. Training do not converge, I gave up after _way too much time_ invested in it, sadly.
   - [My Docker Compose files](https://github.com/AwePhD/CoFFee) used to manage my dev envs. This is not updated nor tested. _I am moving to nix btw_    
   - [Hands-on lab](https://github.com/AwePhD/NotebooksLabsessionImage) given for first Image processing course at Grenoble-INP, master first year. With simple exercices and sourced with [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
+- Toy projects to get familiar with new concepts/methods/data:
+  - [Explore gaussian splatting and COLMAP data with `gsplat library](https://github.com/mufasachan/explore_gsplat). Also question the CLIP's representations robustness from rendered image.  
 - My Master / Engineering schools project
   - [Deep Learning crop detection on hyperspectral images](https://github.com/mufasachan/2020_crop_detection).
   - [MIPS Interpreter](https://github.com/mufasachan/2020_mips_emulator)
